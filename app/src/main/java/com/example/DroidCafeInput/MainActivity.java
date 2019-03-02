@@ -12,6 +12,10 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+    public static final String EXTRA_MESSAGE="com.example.android.droidcafeinput.extra.MESSAGE";
+
+    private String mOrderMessage;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
