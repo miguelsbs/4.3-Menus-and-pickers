@@ -1,4 +1,4 @@
-package com.example.droidcafe;
+package com.example.DroidCafeInput;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
